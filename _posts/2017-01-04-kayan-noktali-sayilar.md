@@ -2,7 +2,7 @@
 layout: post
 title: Kayan Noktalı Sayılar
 subtitle: Floating point numbers
-date: 2017-01-04 14:18:00 -0700
+date: 2017-01-04 14:18:00
 tags: [IEEE 754, Kayan Noktalı Sayılar, Bilgisayarın Temelleri,KTÜ]
 comments: true
 show-share: true
