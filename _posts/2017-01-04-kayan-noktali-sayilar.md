@@ -17,8 +17,9 @@ En basit tabiriyle noktalı sayıların bilgisayar tarafından anlaşılması i�
 Noktalı sayıların gösterimi IEEE 754 ile standartlaştırılmıştır. Bu standarda göre aşağıda göreceğiniz gibi en anlamlı bit Sign yani işaret bitidir. Sayımız pozitif ise burası `0`, negatif ise `1` olacaktır. Exponent kısmı ise sayımızı bilimsel gösterime çevirdikten sonra oluşan üst kısmına `127` eklenmiş halidir. Mantissa ise (resimde fraction olan kısım) noktadan sonraki kısımdır. Örnekte daha iyi anlayacağız.
 
 
-  
- [![Demo](https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/floating.png)](https://github.com/talhakum/talhakum.github.io/tree/master/img)
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/floating.png"/>
+</p>
 
 
 
