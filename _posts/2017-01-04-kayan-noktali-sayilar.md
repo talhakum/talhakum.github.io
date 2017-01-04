@@ -18,8 +18,9 @@ Noktalı sayıların gösterimi IEEE 754 ile standartlaştırılmıştır. Bu st
 
 
   <p align="center">
-  <img src ="https://github.com/talhakum/talhakum.github.io/blob/master/img/floating.png" />
+ [![Demo](https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/floating.png)](https://github.com/talhakum/talhakum.github.io/tree/master/img)
 </p>
+
 
 
 Elimizde `50.25` sayısı olsun. Bu sayıyı bildiğimiz yöntemle `110010.01` olarak 2’lik sisteme dönüştürüyoruz. Bununla ilgili sorun yaşayanların buraya bakmasını tavsiye edeceğim. Bu elimizdeki sayıyı bilimsel şekilde yazarsak  `1.1001001 x 2^5` elde ederiz. Şimdi buradaki üst’e yani `5`‘e `127` ekliyoruz. `132` sayısı ( `1000 0100` ) bizim Exponent kısmımız oldu.
