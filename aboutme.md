@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hakkımda
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Merhaba,
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+İstanbul Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. Java ve teknolojilerini öğrenip/kullanarak kendimi geliştiriyorum. Bunun yanında bu sıralar Android ile uğraşmaktayım. 
 
-What else do you need?
+Çalışkan ve çalışmayı çok seven bir öğrenciyim, bu yüzden eğitimimi lisans seviyesinde bırakmayı düşünmüyorum. Ayrıca üniversitede yaptığım projeleri GitHub hesabımda düzenli olarak paylaşıyorum. Öğrendiklerimi başkalarına aktarmak bana mutluluk veriyor, bu yüzden bu bloğa öğrendiklerimi yazıp başkalarına yardımcı olmayı hedefliyorum.
 
-### my history
+Ayrıca Türk Kızılayı Avrasya Şubesinde gönüllüyüm.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Bana aşağıdaki hesaplarımdan ulaşabilirsiniz:
+
+* [Mail](orhantalhakum@gmail.com) 
+* [Linkedin](https://tr.linkedin.com/in/orhan-talha-kum-108779a0) 
+* [Facebook](https://www.facebook.com/people/Talha-Kum/100010104434790)
+* [GitHub](https://github.com/talhakum)
+
