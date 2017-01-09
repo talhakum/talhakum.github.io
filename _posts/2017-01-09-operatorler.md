@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operatörler
-date: 2017-01-04 20:30
+date: 2017-01-09 21:00
 tags: [Javascript'te Operatörler, Javascript dersleri, Operatörler]
 comments: true
 show-share: true
