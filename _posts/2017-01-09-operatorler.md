@@ -58,7 +58,7 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tbody>
 </table>
 
-
+&nbsp;
 
 #### 2-Karşılaştırma Operatörleri
 
