@@ -41,10 +41,10 @@ Bir şarta göre bloklar ( {,} ) arasındaki kodların icra edilmesine olanak sa
 
 Eğer if ifadesinin içerisindeki değer false değeri döndürürse else blokları arasındaki kod parçacığının çalışmasına olanak sağlar. Yani eğer if'in içerisindeki değer doğruysa içeri gir, eğer değilse else'e gir.
 
-`if(condition) {`
-`}`
-`else {`
-`}`
+`if(condition) {
+}
+else {
+}`
 
 ```html
 <html>
@@ -69,12 +69,12 @@ Eğer if ifadesinin içerisindeki değer false değeri döndürürse else blokla
 
 Burada da birden çok koşula bağlı bir yapı görüyoruz arkadaşlar. Yani bizim 1'den çok if'imiz var. 1. if'den başlayarak koşulları test eder, eğer true döndüren bir yapı olursa içeri dallanır, olmazsa bir üstte gördüğümüz gibi else'e dallanır.
 
-`if(condition1) {`
-`}`
-`else if(condition2){`
-`}`
-`else {`
-`}`
+`if(condition1) {
+}
+else if(condition2){
+}
+else {
+}`
 
 ```html
 <html>
@@ -145,8 +145,8 @@ Daha önce tanımını verdiğimiz gibi, bir veya birden çok şarta göre belir
 
 * For
 
-`for(başlangıç(lar); koşul(lar); arttırma/azaltma(lar) etc.) {`
-`}`
+`for(başlangıç(lar); koşul(lar); arttırma/azaltma(lar) etc.) {
+}`
 
 ```html
 <html>
@@ -168,8 +168,8 @@ Daha önce tanımını verdiğimiz gibi, bir veya birden çok şarta göre belir
 
 While döngüsünde kod ya da kod parçacıkları, tanımlanan şart true değer ürettiği sürece çalıştırılır.
 
-`while(condition) {`
-`}`
+`while(condition) {
+}`
 
 ```html
 <html>
@@ -192,9 +192,9 @@ While döngüsünde kod ya da kod parçacıkları, tanımlanan şart true değer
 
 While döngüsü ilk önce koşul testi yapıp bloklar arasındaki kodu icra eder, ancak do while ifadesi ilk önce döngüye girer, 1 kez çalıştırdıktan sonra koşulu test eder.
 
-`do {`
+`do {
 
-`}while(condition);`
+}while(condition);`
 
 ```html
 <html>
@@ -241,6 +241,9 @@ Her iterasyonda verdiğimiz bir nesnenin sırasıyla özellikleri veya yine sır
 ```
 
 ## Döngülerde Kullanılan Anahtar Kelimeler
+
+
+
 
 * break
 
