@@ -81,3 +81,44 @@ Atayacağımız değişken tek tırnak (' ') veya çift tırnak (" ") arasına a
 var ad="talha";
 ```
 
+4- Undefined Veri Türü
+
+var keyword'ü ile bir değişken tanımlanıp değer atanmadıysa veri türü undefined olarak görülecektir.
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/js4.png"/>
+</p>
+
+5-Null Veri Türü
+
+Undefined veri türünde herhangi bir işlem yapmaya çalıştığımızda NaN (Not a Number)hatası alırız. Ancak null veri türü ataması yapıp herhangi bir işlem yapmaya çalıştığımızda bu hatayı almayız. Dinamik olarak tür dönüşümü gerçekleşir. Örnek vermek gerekirse:
+
+
+```javascript
+var x=null;
+
+var y=25;
+
+var z=x+y;   
+
+alert(z);                          //ekrana 25 çıktısını verecektir.
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/js5.png"/>
+</p>
+
+> Not: Undefined ve Null veri türleri special veri türü olarak adlandılır.
+
+6-Object Veri Türü
+
+Bir değişkene özellik ve metotlara sahip bir nesne atandığında, bu değişkenin veri türü object olur.
+
+Veri türlerimiz bu kadar. Bazı karakterleri string formatında özel anlanmarı vardır. (') , (") gibi. Bunlardan kurtulmak için Escape Character dediğimiz ters slash kullanılır. Aşağıda listesini görebilirsiniz.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/js6.png"/>
+</p>
+
+Bu yazımızda bu kadar arkadaşlar. Bir sonraki derste operatörlerden devam edeceğiz.
