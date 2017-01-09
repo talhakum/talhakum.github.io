@@ -17,6 +17,7 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 
 #### 1-Aritmetik Operatörler
 
+
 <table border="1">
 <tbody>
 <tr>
@@ -59,6 +60,7 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </table>
 
 #### 2-Karşılaştırma Operatörleri
+
 
 <table border="1">
 <tbody>
@@ -119,6 +121,7 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 ```
 
 #### 3- Mantıksal Operatörler
+
 
 <table border="1">
 <tbody>
