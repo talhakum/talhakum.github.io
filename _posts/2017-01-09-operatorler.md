@@ -60,8 +60,6 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tbody>
 </table>
 
-&nbsp;
-
 #### 2-Karşılaştırma Operatörleri
 
 &nbsp;
@@ -107,8 +105,6 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tbody>
 </table>
 
-&nbsp;
-
 > Burada tür dönüşümü olarak söylenen şey bir veri türünün başka bir veri türüne otomatik olarak çevrilmesidir. Örnek olarak aşağıya ekledim.
 
 &nbsp;
@@ -127,8 +123,6 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </body>
 </html>
 ```
-
-&nbsp;
 
 #### 3- Mantıksal Operatörler
 
@@ -154,8 +148,6 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tr>
 </tbody>
 </table>
-
-&nbsp;
 
 #### 4- Bitsel Operatörler
 
@@ -193,8 +185,6 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tr>
 </tbody>
 </table>
-
-&nbsp;
 
 #### 5- Atama Operatörleri
 &nbsp;
@@ -251,8 +241,6 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tbody>
 </table>
 
-&nbsp;
-
 #### 6- Özel Operatörler
 
 * **Conditional Operator** 
@@ -274,8 +262,6 @@ document.write(y); // Ekrana X 21'den küçüktür yazısını verecektir.
 </body>
 </html>
 ```
-
-&nbsp;
 
 > Not: document.write() ifadesi ekrana bir yazı yazdırmak için kullanılmaktadır.
 
@@ -300,8 +286,6 @@ alert("i="+i+"\n"+"j="+j); //Deneyebilirsiniz.
 </html>
 ```
 
-&nbsp;
-
 * **Delete   Operator** 
 
 Bir nesneyi, nesnenin bir özelliğini veya dizinin bir elemanını silmek için kullanılır.
@@ -321,8 +305,6 @@ document.write(object.x); // Ekrana undefined yazısı verecektir.
 </html>
 ```
 
-&nbsp;
-
 * **IN    Operator** 
 
 Bir nesnenin bir özelliğe sahip olup olmadığını kontrol etmek için kullanılır.
@@ -341,8 +323,6 @@ document.write(b); //ekrana true değeri döndürecektir.
 </html>
 ```
 
-&nbsp;
-
 * **TypeOf     Operator** 
 
 Bir değişkenin türünü öğrenmek için kullanılır.
@@ -351,8 +331,6 @@ Bir değişkenin türünü öğrenmek için kullanılır.
 var a=10.50;
 alert(typeof(a)); // Ekranda Number yazısını görürüz.
 ```
-
-&nbsp;
 
 * **Void      Operator** 
 
