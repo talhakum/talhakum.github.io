@@ -13,7 +13,7 @@ Merhabalar, bu dersimizde JavaScript'te değişken tanımlamasını ve veri tür
 
 Genelde programlama dillerinde değişken tanımlarken aşağıdaki syntax söz konusudur.
 
-`<p align="center"> < veri_türü > < degisken_adi > = < deger > </p>`
+<p align="center"> `< veri_türü > < degisken_adi > = < deger >` </p>
 
 Bu syntax JS'de geçerli değildir. JS'de veri türü, çalışma zamanında yorumlanarak (interpretation) dinamik olarak belirlenir. Bunun yanında değişken tanımlarken diğer dillerdeki kurallar tabidir. Örneğin JS de Case Sensitivity (büyük küçük harfe duyarlı) bir dildir.
 
