@@ -85,6 +85,7 @@ Atayacağımız değişken tek tırnak (' ') veya çift tırnak (" ") arasına a
 var ad="talha";
 ```
 
+
 ##### 4- Undefined Veri Türü
 
 var keyword'ü ile bir değişken tanımlanıp değer atanmadıysa veri türü undefined olarak görülecektir.
