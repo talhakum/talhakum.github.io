@@ -41,7 +41,7 @@ Tarayıcının dinamik olarak veri türünü belirlediğini söylemiştik. Şimd
 
 #### 1- Number Veri Türü
 
-Tam ve ondalıklı sayıları tutmak için kullanılan genel veri türüdür. IEEE 754 formatı ile standartlaştırılmıştır. Bu konuyu merak edenler yazdığım bu yazıyı okuyabilirler. number veri türü aslında daha sonraki derslerde göreceğimiz Number nesnesinden türemiş bir nesnedir.
+Tam ve ondalıklı sayıları tutmak için kullanılan genel veri türüdür. IEEE 754 formatı ile standartlaştırılmıştır. Bu konuyu merak edenler yazdığım [bu](http://talhakum.com/2017-01-04-kayan-noktali-sayilar/) yazıyı okuyabilirler. number veri türü aslında daha sonraki derslerde göreceğimiz Number nesnesinden türemiş bir nesnedir.
 
 Number veri türüne ondalıklı sayı, 10, 8, 16'lık tabanda sayılar atamanız mümkündür. 8 tabanında sayı atamak için başına 0, 16'lık tabanda sayı atamak için 0x koymanız gerekir. Örnek olarak koda bakabilirsiniz.
 
