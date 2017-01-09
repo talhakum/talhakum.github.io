@@ -16,7 +16,7 @@ Bir deyim ya da ifadede önceden tanımlanmış görevleri yerine getiren karakt
 Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 
 #### 1-Aritmetik Operatörler
-</br>
+&nbsp;
 <table border="1">
 <tbody>
 <tr>
