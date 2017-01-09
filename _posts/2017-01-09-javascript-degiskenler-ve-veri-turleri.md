@@ -115,7 +115,7 @@ alert(z);                          //ekrana 25 çıktısını verecektir.
 
 Bir değişkene özellik ve metotlara sahip bir nesne atandığında, bu değişkenin veri türü object olur.
 
-Veri türlerimiz bu kadar. Bazı karakterleri string formatında özel anlanmarı vardır. (') , (") gibi. Bunlardan kurtulmak için Escape Character dediğimiz ters slash kullanılır. Aşağıda listesini görebilirsiniz.
+Veri türlerimiz bu kadar. Bazı karakterlerin string formatında özel anlanmarı vardır. (') , (") gibi. Bunlardan kurtulmak için Escape Character dediğimiz ters slash kullanılır. Aşağıda listesini görebilirsiniz.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/js6.png"/>
