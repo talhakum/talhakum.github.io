@@ -16,7 +16,7 @@ Bir deyim ya da ifadede önceden tanımlanmış görevleri yerine getiren karakt
 Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 
 #### 1-Aritmetik Operatörler
-<br>
+</br>
 <table border="1">
 <tbody>
 <tr>
@@ -57,9 +57,9 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tr>
 </tbody>
 </table>
-<br>
+</br>
 #### 2-Karşılaştırma Operatörleri
-<br>
+</br>
 <table border="1">
 <tbody>
 <tr>
@@ -100,9 +100,9 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tr>
 </tbody>
 </table>
-<br>
+</br>
 > Burada tür dönüşümü olarak söylenen şey bir veri türünün başka bir veri türüne otomatik olarak çevrilmesidir. Örnek olarak aşağıya ekledim.
-<br>
+</br>
 ```html
 <html>
 <head>
@@ -117,9 +117,9 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </body>
 </html>
 ```
-<br>
+</br>
 #### 3- Mantıksal Operatörler
-<br>
+</br>
 <table border="1">
 <tbody>
 <tr>
@@ -140,9 +140,9 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tr>
 </tbody>
 </table>
-<br>
+</br>
 #### 4- Bitsel Operatörler
-<br>
+</br>
 <table border="1">
 <tbody>
 <tr>
@@ -175,9 +175,9 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tr>
 </tbody>
 </table>
-<br>
+</br>
 #### 5- Atama Operatörleri
-<br>
+</br>
 <table border="1">
 <tbody>
 <tr>
@@ -230,15 +230,15 @@ Bu başlık altında 11 adet operatör grubu göstermeye çalışacağım.
 </tr>
 </tbody>
 </table>
-<br>
+</br>
 #### 6- Özel Operatörler
-<br>
+</br>
 * **Conditional Operator** 
 
 Conditional Operator olarak tanımlanan if ifadesinin kısaltılmış formudur diyebiliriz.
 
 `<değişken> (koşul) ? atama1 : atama2;`
-<br>
+</br>
 ```html
 <html>
 <head>
@@ -252,9 +252,9 @@ document.write(y); // Ekrana X 21'den küçüktür yazısını verecektir.
 </body>
 </html>
 ```
-<br>
+</br>
 > Not: document.write() ifadesi ekrana bir yazı yazdırmak için kullanılmaktadır.
-<br>
+</br>
 * **Comma  Operator** 
 
 Örnek olarak bir for döngüsünün içinde iki koşul tanımlaması yapmak için kullandığımız (,) operatörüdür.
@@ -273,7 +273,7 @@ alert("i="+i+"\n"+"j="+j); //Deneyebilirsiniz.
 </body>
 </html>
 ```
-<br>
+</br>
 * **Delete   Operator** 
 
 Bir nesneyi, nesnenin bir özelliğini veya dizinin bir elemanını silmek için kullanılır.
@@ -292,7 +292,7 @@ document.write(object.x); // Ekrana undefined yazısı verecektir.
 </body>
 </html>
 ```
-<br>
+</br>
 * **IN    Operator** 
 
 Bir nesnenin bir özelliğe sahip olup olmadığını kontrol etmek için kullanılır.
@@ -310,7 +310,7 @@ document.write(b); //ekrana true değeri döndürecektir.
 </body>
 </html>
 ```
-<br>
+</br>
 * **TypeOf     Operator** 
 
 Bir değişkenin türünü öğrenmek için kullanılır.
@@ -319,7 +319,7 @@ Bir değişkenin türünü öğrenmek için kullanılır.
 var a=10.50;
 alert(typeof(a)); // Ekranda Number yazısını görürüz.
 ```
-<br>
+</br>
 * **Void      Operator** 
 
 Geriye hiçbir değer döndürülmesini istemediğimiz yerlerde kullanırız.
