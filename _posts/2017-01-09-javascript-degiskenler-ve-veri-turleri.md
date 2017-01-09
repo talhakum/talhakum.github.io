@@ -81,7 +81,7 @@ Atayacağımız değişken tek tırnak (' ') veya çift tırnak (" ") arasına a
 var ad="talha";
 ```
 
-4- Undefined Veri Türü
+#### 4- Undefined Veri Türü
 
 var keyword'ü ile bir değişken tanımlanıp değer atanmadıysa veri türü undefined olarak görülecektir.
 
@@ -90,7 +90,7 @@ var keyword'ü ile bir değişken tanımlanıp değer atanmadıysa veri türü u
   <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/js4.png"/>
 </p>
 
-5-Null Veri Türü
+#### 5-Null Veri Türü
 
 Undefined veri türünde herhangi bir işlem yapmaya çalıştığımızda NaN (Not a Number)hatası alırız. Ancak null veri türü ataması yapıp herhangi bir işlem yapmaya çalıştığımızda bu hatayı almayız. Dinamik olarak tür dönüşümü gerçekleşir. Örnek vermek gerekirse:
 
@@ -111,7 +111,7 @@ alert(z);                          //ekrana 25 çıktısını verecektir.
 
 > Not: Undefined ve Null veri türleri special veri türü olarak adlandılır.
 
-6-Object Veri Türü
+#### 6-Object Veri Türü
 
 Bir değişkene özellik ve metotlara sahip bir nesne atandığında, bu değişkenin veri türü object olur.
 
