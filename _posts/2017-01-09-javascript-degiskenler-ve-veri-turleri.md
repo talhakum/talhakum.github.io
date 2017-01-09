@@ -88,6 +88,7 @@ var ad="talha";
 ##### 4- Undefined Veri Türü
 
 var keyword'ü ile bir değişken tanımlanıp değer atanmadıysa veri türü undefined olarak görülecektir.
+
 ```javascript
 var value;                                  //Değer ataması yapılmadı.
 alert(value);
