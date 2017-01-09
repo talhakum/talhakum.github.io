@@ -14,7 +14,7 @@ Merhabalar, bu dersimizde JavaScript'te değişken tanımlamasını ve veri tür
 Genelde programlama dillerinde değişken tanımlarken aşağıdaki syntax söz konusudur.
 
  
- <p align="center">`< veri_türü > < degisken_adi > = < deger >`</p>
+ <p align="center"> < veri_türü > < degisken_adi > = < deger > </p>
   
 
 Bu syntax JS'de geçerli değildir. JS'de veri türü, çalışma zamanında yorumlanarak (interpretation) dinamik olarak belirlenir. Bunun yanında değişken tanımlarken diğer dillerdeki kurallar tabidir. Örneğin JS de Case Sensitivity (büyük küçük harfe duyarlı) bir dildir.
@@ -49,7 +49,6 @@ Tam ve ondalıklı sayıları tutmak için kullanılan genel veri türüdür. IE
 
 Number veri türüne ondalıklı sayı, 10, 8, 16'lık tabanda sayılar atamanız mümkündür. 8 tabanında sayı atamak için başına 0, 16'lık tabanda sayı atamak için 0x koymanız gerekir. Örnek olarak koda bakabilirsiniz.
 ```javascript
-<!DOCTYPE html>
 <html>
 <head>
 </head>
