@@ -96,8 +96,8 @@ Bu benim gibi başka dillerle uğraşanlara biraz farklı gelebilir.
   
   Şimdi de örnek olsun diye yapıcı metodumuza parametre gönderecek şekilde bir nesne tanımlaması yapalım.
   
-  ```html
-  <html>
+```html
+<html>
 <head>
 </head>
 <body>
@@ -113,10 +113,9 @@ Bu benim gibi başka dillerle uğraşanlara biraz farklı gelebilir.
 		document.write(nesne.alan()+"<br>");
 		document.write(nesne["taban"]); // İstersek bu şekilde de nesne elemanlarına erişmemiz mümkündür.
 </script>	
-	
 </body>
 </html>
-  ```
+```
   
   şu an aslında JS'de nesne-sınıf ilişkisini öğrenmiş olduk. Şimdi biraz daha derinlere inelim.
   
