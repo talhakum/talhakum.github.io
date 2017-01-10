@@ -4,11 +4,11 @@ title: Hakkımda
 subtitle: 
 ---
 
-Merhaba,
+Merhabalar,
 
-İstanbul Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. Java ve teknolojilerini öğrenip/kullanarak kendimi geliştiriyorum. Bunun yanında bu sıralar Android ile uğraşmaktayım. 
+Ben Talha, İstanbul Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. İstanbul/Beykoz'da yaşıyorum. Java ve teknolojilerini öğrenip/kullanarak kendimi geliştiriyorum. Bunun yanında bu sıralar Android ile uğraşmaktayım. 
 
-Çalışkan ve çalışmayı çok seven bir öğrenciyim, bu yüzden eğitimimi lisans seviyesinde bırakmayı düşünmüyorum. Ayrıca üniversitede yaptığım projeleri GitHub hesabımda düzenli olarak paylaşıyorum. Öğrendiklerimi başkalarına aktarmak bana mutluluk veriyor, bu yüzden bu bloğa öğrendiklerimi yazıp başkalarına yardımcı olmayı hedefliyorum.
+Çalışkan ve çalışmayı çok seven bir öğrenciyim, üniversitede yaptığım projeleri GitHub hesabımda düzenli olarak paylaşıyorum. Öğrendiklerimi başkalarına aktarmak bana mutluluk veriyor, bu yüzden bu bloğa öğrendiklerimi yazıp başkalarına yardımcı olmayı hedefliyorum.
 
 Ayrıca Türk Kızılayı Avrasya Şubesinde gönüllüyüm.
 
