@@ -19,13 +19,10 @@ Adında da belli olan try, program akışında hata verebilecek kod parçacıkla
 
 Aynı şekilde catch de hata oluşması durumunda çalıştırılmasını istediğimiz kodların olduğu bölümdür.
 
-`try {
-
-}
-
-catch(error) {
-
-}`
+`try {`
+`}`
+`catch(error) {`
+`}`
 
 Hemen bir örnek yaparak try-catch yapısını kavramaya çalışalım.
 
