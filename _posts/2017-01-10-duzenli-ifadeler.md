@@ -128,6 +128,8 @@ Bu örnekleri çoğaltabiliriz, ancak ben daha önemli olduğunu düşündüğü
 </tbody>
 </table>
 
+&nbsp;
+
 <table>
 <tbody>
 <tr>
@@ -156,6 +158,8 @@ Bu örnekleri çoğaltabiliriz, ancak ben daha önemli olduğunu düşündüğü
 </tr>
 </tbody>
 </table>
+
+&nbsp;
 
 <table>
 <tbody>
@@ -213,6 +217,8 @@ Bu örnekleri çoğaltabiliriz, ancak ben daha önemli olduğunu düşündüğü
 </tr>
 </tbody>
 </table>
+
+&nbsp;
 
 <table>
 <tbody>
