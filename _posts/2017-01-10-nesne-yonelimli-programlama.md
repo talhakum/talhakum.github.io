@@ -183,8 +183,8 @@ NYP kavramlarından birisi de kalıtımdır(inheritance). Kalıtım, bir sınıf
 
 JavaScript'te kalıtım için apply ve call adında bize yardımcı olan 2 metodumuz vardır. Bir örnek vererek, örnek üzerinden anlatmaya çalışacağım.
   
-  ```html
- <html>
+```html
+<html>
 <head>
 </head>
 <body>
