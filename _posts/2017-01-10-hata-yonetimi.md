@@ -7,7 +7,7 @@ comments: true
 show-share: true
 ---
 
-Merhaba arkadaşlar, bu yazıda diğer programlama dillerinde de mevcut olan hata yönetimi (Exception Handling) yapısının JavaScript'te nasıl kullanıldığını aktarmaya çalışacağım.
+Selamlar, bu yazıda diğer programlama dillerinde de mevcut olan hata yönetimi (Exception Handling) yapısının JavaScript'te nasıl kullanıldığını aktarmaya çalışacağım.
 
 ### Hata Yönetimi Nedir ?
 
