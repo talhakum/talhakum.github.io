@@ -23,8 +23,9 @@ description: Talha Kum
 
 # List of links in the navigation bar
 navbar-links:
-  Hakkımda: "aboutme"
+  Blog: ""
   JavaScript: "jstutorials"
+  Hakkımda: "aboutme"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
