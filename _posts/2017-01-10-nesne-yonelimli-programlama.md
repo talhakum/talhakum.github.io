@@ -76,12 +76,10 @@ Bu benim gibi başka dillerle uğraşanlara biraz farklı gelebilir.
 
 ```html
 <html>
-	<head>
-	</head>
-	<body>
+<head>
+</head>
+<body>
 <script type=text/javascript>
-	
-		
 		var sinif=function() {  
 		this.x=10;
 		this.fonk=function() { // Bu seferde this anahtar kelimesini kullanarak nesnemize bir fonksiyon eklemiş olduk. İstersek buna parametre de ekleyebilirdik.
@@ -91,10 +89,10 @@ Bu benim gibi başka dillerle uğraşanlara biraz farklı gelebilir.
 		var nesne=new sinif(); // "sinif" sınıfımızdan(yapıcı metottan) bir nesne oluşturduk. Yapıcı Metodun parametre almadığına dikkat ediniz.
 		
 		document.write(nesne.fonk());
-        </script>
-	</body>
-	</html>
-  ```
+  </script>
+</body>
+</html>
+```
   
   Şimdi de örnek olsun diye yapıcı metodumuza parametre gönderecek şekilde bir nesne tanımlaması yapalım.
   
@@ -117,7 +115,7 @@ Bu benim gibi başka dillerle uğraşanlara biraz farklı gelebilir.
 </script>	
 	
 	</body>
-	</html>
+</html>
   ```
   
   şu an aslında JS'de nesne-sınıf ilişkisini öğrenmiş olduk. Şimdi biraz daha derinlere inelim.
@@ -173,8 +171,8 @@ Gördüğünüz gibi prototype anahtar kelimesini kullanarak bir metot oluşturd
 		document.write(nesne.alan());
 	</script>	
 	</body>
-	</html>
-  ```
+</html>
+```
   
 Gördüğünüz gibi daha önce ki örneklerde yaptığımız gibi kullandık. Peki ne avantajı vardır bu protoype'ın ?
 
@@ -210,7 +208,7 @@ JavaScript'te kalıtım için apply ve call adında bize yardımcı olan 2 metod
 		document.write(nesne.alan());
 </script>			
 	</body>
-	</html>
+</html>
 ```
 
 inherit yapıcı metodunu (class'ını) kullanarak bir nesne ürettik. Görüldüğü gibi inherit metodu alan adında bir metodu barındırmıyor. Ancak biz ekrana nesne.alan() diye erişebildik. Bunu sağlayan yapı ise apply metodu. Apply metodu ilk parametresine this, ikinci parametresine arguments nesnesini alarak farklı bir metod çağırmak için kullanılır. Yani inherit metodu sinif nesnesinden türemiş oldu. Şimdi ise call metodunu gösterelim.
@@ -240,8 +238,8 @@ inherit yapıcı metodunu (class'ını) kullanarak bir nesne ürettik. Görüld�
 		document.write(nesne.alan());
 </script>	
 	</body>
-	</html>
-  ```
+</html>
+```
   
 Call metodu ise aslında apply'e çok benzer bir metod. Call metodunu apply metodundan ayıran özellik ise call metodunu istediğimiz parametre ile çağırabilmemizdir. Yani yanına daha fazla parametre de ekleyebilirdik. Tabi bu şekilde üst sınıfın constructor'ı parametreyi alamamış olacaktır.
 
