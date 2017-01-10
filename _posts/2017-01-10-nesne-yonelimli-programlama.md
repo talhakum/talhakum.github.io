@@ -98,9 +98,9 @@ Bu benim gibi başka dillerle uğraşanlara biraz farklı gelebilir.
   
   ```html
   <html>
-	<head>
-	</head>
-	<body>
+<head>
+</head>
+<body>
 <script type=text/javascript>
 		
 		var sinif=function(taban,yukseklik) {  
@@ -114,7 +114,7 @@ Bu benim gibi başka dillerle uğraşanlara biraz farklı gelebilir.
 		document.write(nesne["taban"]); // İstersek bu şekilde de nesne elemanlarına erişmemiz mümkündür.
 </script>	
 	
-	</body>
+</body>
 </html>
   ```
   
@@ -128,9 +128,9 @@ Normalde prototype değişkenler ve sınıflar için kullanılabilir. Ancak ben 
 
 ```html
 <html>
-	<head>
-	</head>
-	<body>
+<head>
+</head>
+<body>
 <script type=text/javascript>	
 		
 		var sinif=function(taban,yukseklik) {  
@@ -145,7 +145,7 @@ Normalde prototype değişkenler ve sınıflar için kullanılabilir. Ancak ben 
 		document.write(nesne.alan());
         
 </script>
-    </body>
+</body>
 </html>
 ```
 
@@ -153,9 +153,9 @@ Gördüğünüz gibi prototype anahtar kelimesini kullanarak bir metot oluşturd
 
 ```html
 <html>
-	<head>
-	</head>
-	<body>
+<head>
+</head>
+<body>
 <script type=text/javascript>	
 		
 		var sinif=function(taban,yukseklik) {  
@@ -169,8 +169,8 @@ Gördüğünüz gibi prototype anahtar kelimesini kullanarak bir metot oluşturd
 		
 		var nesne=new sinif(12,24);
 		document.write(nesne.alan());
-	</script>	
-	</body>
+</script>	
+</body>
 </html>
 ```
   
@@ -186,9 +186,9 @@ JavaScript'te kalıtım için apply ve call adında bize yardımcı olan 2 metod
   
   ```html
  <html>
-	<head>
-	</head>
-	<body>
+<head>
+</head>
+<body>
 <script type=text/javascript>
 		
 		var sinif=function(t,y) {  
@@ -207,7 +207,7 @@ JavaScript'te kalıtım için apply ve call adında bize yardımcı olan 2 metod
 		var nesne=new inherit(12,24); // dikkat ederseniz nesneyi sinif metodundan üretmedik.
 		document.write(nesne.alan());
 </script>			
-	</body>
+</body>
 </html>
 ```
 
@@ -215,9 +215,9 @@ inherit yapıcı metodunu (class'ını) kullanarak bir nesne ürettik. Görüld�
 
 ```html
 <html>
-	<head>
-	</head>
-	<body>
+<head>
+</head>
+<body>
 <script type=text/javascript>
 	
 		
@@ -237,7 +237,7 @@ inherit yapıcı metodunu (class'ını) kullanarak bir nesne ürettik. Görüld�
 		var nesne=new inherit(12,24); //
 		document.write(nesne.alan());
 </script>	
-	</body>
+</body>
 </html>
 ```
   
