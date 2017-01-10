@@ -50,7 +50,7 @@ Cookie Aktif Kalacak Gün Sayısı: <input type="number" id="cookieGun" /> <br>
 Bu örneğimizde cookie adını, içeriğini ve aktif olacağı gün sayısını alarak bir cookie oluşturduk. Kod içerisinde gerekli açıklamaları yaptığımdan daha fazla yazmaya gerek görmedim. Firefox kullananlar Tercihler -> Gizlilik sekmesine gelerek Geçmiş kısmında yazan çerezleri tek tek kaldırabilirsiniz'e tıklayarak oluşturdukları çereze bakabilirler.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/js7.png"/>
+  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/js7.jpg"/>
 </p>
 
 ### Cookie Okumak
@@ -80,7 +80,7 @@ function cookieOku() {
 Çıktımız bu şekilde olacaktır.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/js7.png"/>
+  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/js8.jpg"/>
 </p>
 
 Eğer belirli bir isme göre Cookie çekmek istiyorsak o zaman document.cookie.indexOf() metodunu kullanabiliriz. Bununla ilgili de bir örnek gösterelim.
