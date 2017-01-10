@@ -7,7 +7,7 @@ comments: true
 show-share: true
 ---
 
-Merhaba arkadaşlar, bu yazıda JavaScript'te çerezler (cookies) konusunu ele alacağız.
+Merhaba, bu yazıda JavaScript'te çerezler (cookies) konusunu ele alacağız.
 
 ### Cookie nedir ?
 
