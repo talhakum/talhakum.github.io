@@ -95,7 +95,7 @@ disqus: "talhakum"
 google_analytics: "UA-89820915-1"
 
 # Facebook App ID
-# fb_app_id: ""
+fb_app_id: "371608693202054"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
