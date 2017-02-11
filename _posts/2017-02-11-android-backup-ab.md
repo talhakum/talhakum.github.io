@@ -47,16 +47,14 @@ Ardından Android cihazınıza aşağıdaki gibi bir bildirim gelecek.
 
 Şifreyi boş bırakıp sağ altta bulunan "VERİLERİMİ YEDEKLE" seçeneğini seçebilirsiniz.
 
-Ardından platforms-tools klasörünüze backup.ab isminde bir dosya eklenecek. Bu dosyayı açmak için ise [bu](https://sourceforge.net/projects/adbextractor/) aracı indirebilirsiniz. 
+Ardından platforms-tools klasörünüze backup.ab isminde bir dosya eklenecek. Bu dosyayı açmak için ise [bu](https://sourceforge.net/projects/adbextractor/) aracı indirebilirsiniz.  
 
-
-
-İndirdikten sonra abe.jar dosyasını çıkartın. Ardından yine komut satırından 
-````bash
-java.exe -jar abe.jar unpack backup.ab test.tar ""
-```
-giriniz.
+İndirdikten sonra abe.jar dosyasını çıkartın. Ardından yine komut satırından `java.exe -jar abe.jar unpack backup.ab test.tar ""` giriniz.
 
 Aynı klasörde test isimli bir .tar dosyası göreceksiniz. Bunun içinde yazdığınız "example.txt" dosyasını görebilirsiniz.
+
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/androidyazi.png"/>
+</p>
 
 İyi çalışmalar
