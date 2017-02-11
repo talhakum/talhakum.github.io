@@ -54,7 +54,7 @@ Ardından platforms-tools klasörünüze backup.ab isminde bir dosya eklenecek. 
 Aynı klasörde test isimli bir .tar dosyası göreceksiniz. Bunun içinde yazdığınız "example.txt" dosyasını görebilirsiniz.
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/androidyazi.png"/>
+  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/androidyazi2.png"/>
 </p>
 
 İyi çalışmalar
