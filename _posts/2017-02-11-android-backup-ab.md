@@ -49,7 +49,12 @@ Ardından Android cihazınıza aşağıdaki gibi bir bildirim gelecek.
 
 Ardından platforms-tools klasörünüze backup.ab isminde bir dosya eklenecek. Bu dosyayı açmak için ise [bu](https://sourceforge.net/projects/adbextractor/) aracı indirebilirsiniz. 
 
-İndirdikten sonra abe.jar dosyasını çıkartın. Ardından yine komut satırından `java.exe -jar abe.jar unpack backup.ab test.tar ""` giriniz.
+
+
+
+İndirdikten sonra abe.jar dosyasını çıkartın. Ardından yine komut satırından ```{r, engine='bash', count_lines}
+java.exe -jar abe.jar unpack backup.ab test.tar ""
+``` giriniz.
 
 Aynı klasörde test isimli bir .tar dosyası göreceksiniz. Bunun içinde yazdığınız "example.txt" dosyasını görebilirsiniz.
 
