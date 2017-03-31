@@ -15,7 +15,7 @@ JavaScript temel olarak tarayıcının kullanıcıyla iletişimde bulunması ama
 
 #### Giriş
 
-Ben yazılarımda JavaScript geliştirmek için notepad++ kullanacağım arkadaşlar. Siz istediğiniz IDE’yi kullabilirsiniz. notepad++ açık kaynaklı bir yazılım olduğundan tercih ediyorum. [Buradan](https://notepad-plus-plus.org/download/v6.9.2.html) indirebilirsiniz. Yazılarımda temel html ve css bilgilerinizin olduğu varsayılacaktır. Bu konuda sorun yaşanların da [buraya](http://kod5.org/html5-nedir/) bakmalarını tavsiye edeceğim.
+Ben yazılarımda JavaScript geliştirmek için notepad++ kullanacağım arkadaşlar. Siz istediğiniz IDE’yi kullabilirsiniz. notepad++ açık kaynaklı bir yazılım olduğundan tercih ediyorum. [Buradan](https://notepad-plus-plus.org/download/v6.9.2.html) indirebilirsiniz. Yazılarımda temel html ve css bilgilerinizin olduğu varsayılacaktır. Bu konuda sorun yaşanların da [buraya](https://www.w3schools.com/html/) bakmalarını tavsiye edeceğim.
 
 #### JavaScript’in HTML5 belgesi içerisine dahil edilmesi
 
