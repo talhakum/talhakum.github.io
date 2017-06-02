@@ -46,7 +46,7 @@ x4x3=11 y4=0
 
 Yeni çarpan değerimiz böylelikle y4y3y2y1=0 1' 1 1' oldu.
 
-Şimdi gelelim algoritmamıza. Algoritmanın çalışmasında da aynı şekilde tabloyu göz önünde bulundararak yapacağız.
+Şimdi gelelim algoritmamıza. Örnek olarak elimizde A (çarpılan) -5 sayısı ve X (çarpan) -2 sayısı olsun. İşlemleri teker teker yukarıdaki tablomuzu göz önünde bulundurarak yapalım.
 
 
 <p align="center">
@@ -54,6 +54,6 @@ Yeni çarpan değerimiz böylelikle y4y3y2y1=0 1' 1 1' oldu.
 </p>
 
 
--5 ile -3 ü çarptığımızda toplamda 1 toplama ve 2 çıkartma işlemi yaparak sonucumuzu 15 olarak bulduk. Eğer Booth's algoritmasını kullanmasaydık tahmin edeceğiniz üzere 4 toplama ve çıkartma işlemiyle sonucumuzu bulmuş olacaktık. Dolayısıyla Booth's algoritması performans açısından daha iyi bir netice veriyor.
+-5 ile -2'yi çarptığımızda toplamda 1 toplama ve 2 çıkartma işlemi yaparak sonucumuzu 10 olarak bulduk. Eğer Booth's algoritmasını kullanmasaydık tahmin edeceğiniz üzere 4 toplama ve çıkartma işlemiyle sonucumuzu bulmuş olacaktık. Dolayısıyla Booth's algoritması performans açısından daha iyi bir netice veriyor.
 
 Umarım anlaşılır olmuştur, hoşça kalın..
