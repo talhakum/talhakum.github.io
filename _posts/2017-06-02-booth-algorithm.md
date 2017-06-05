@@ -3,7 +3,7 @@ layout: post
 title: Booth's Çarpma Algoritması
 subtitle: Booth's Multiplication Algorithm
 date: 2017-06-02 10:30:00
-tags: [Booth's çarpma algoritması,Çarpım algoritmaları,Bilgisayar Mimarisi,iü Bilgisayar Mühendisliği,Ahmet Sertbaş,Booth's algorithm]
+tags: [Booth's çarpma algoritması,Çarpım algoritmaları,Bilgisayar Mimarisi,iü Bilgisayar Mühendisliği,Ahmet Sertbaş,Booth's algorithm,Booth algoritması]
 comments: true
 show-share: true
 ---
