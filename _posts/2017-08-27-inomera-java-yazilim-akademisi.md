@@ -8,7 +8,7 @@ show-share: true
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/inomera-resized-logo.png"/>
+  <img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/inomera_resized_logo.png"/>
 </p>
 
 
