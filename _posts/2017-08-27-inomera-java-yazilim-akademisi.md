@@ -25,10 +25,10 @@ Eğitim programından sonra bizlere, şirketin çalışma alanları olan telekom
 
 Ertesi gün bizim yaptığımız tercihler de göz önünde bulundurularak çalışacağımız alanlar belirlendi. Ben de o tarihten beri Netmera projesinde çalışıyorum.
 
-Geçtiğimiz hafta bütün stajyerle kimlerin part-time olarak devam edip etmeyeceğini belirlemek için ayrı ayrı görüşme ayarlandı. 12 kişi başladığımız bu programa neredeyse hepimiz hafta içi 2-3 gün gelerek devam edeceğiz. 
+Geçtiğimiz hafta bütün stajyerlerle kimlerin part-time olarak devam edip etmeyeceğini belirlemek için ayrı ayrı görüşme yapıldı. 12 kişi başladığımız bu programa neredeyse hepimiz hafta içi 2-3 gün gelerek devam edeceğiz. 
 
 Önümüzdeki senelerde İnomera Java Yazılım Akademisine başvurmayı düşünenlere benim önerim, eğer Java'yı ya da native uygulama geliştirmeyi seviyorlarsa kesinlikle başvuru yapmalarıdır. 
 
-Bunun dışında kafasında soru işareti olanlarında sorularını cevaplayabilirim.
+Bunun dışında kafasında soru işareti olanların da sorularını cevaplayabilirim.
 
 Hoşça kalın..
