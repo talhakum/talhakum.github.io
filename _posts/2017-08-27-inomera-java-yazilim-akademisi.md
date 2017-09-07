@@ -17,7 +17,7 @@ Bu yaz katılma fırsatı bulduğum İnomera Java Yazılım Akademisinde 10 haft
 
 İnomera, 2008 yılında start-up olarak kurulan bir ar-ge ve yazılım firması. Lokasyonu Boğaziçi Üniversitesi Teknoparkında yer almakta. 
 
-11 senedir geleneksel olarak Üniversite öğrencileri için öncesinde eğitim ve sonrasında staj programı yapılıyor. Bu sene 19 Haziran'da bağladığımız programa, staj yaparak devam ediyoruz.
+11 senedir geleneksel olarak Üniversite öğrencileri için öncesinde eğitim ve sonrasında staj programı yapılıyor. Bu sene 19 Haziran'da başladığımız programa, staj yaparak devam ediyoruz.
 
 Toplam 10 gün süren eğitim programında hocamız, Java üstadı Akın Kaldıroğlu'ydu. Nesneye Yönelik Programlama, Threads, JDBC, Transactions, JPA, Servlets, JSP, MVC kavramı ve Spring olmak üzere yoğun bir eğitim gördük. Burada, senelerdir eğitmenlik yapan Akın hocamızdan ders almanın avantajını yaşadık.
 
