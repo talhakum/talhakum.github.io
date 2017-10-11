@@ -6,7 +6,7 @@ subtitle:
 
 Merhabalar,
 
-Ben Talha, İstanbul Üniversitesi Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. İstanbul/Beykoz'da yaşıyorum. Java ve teknolojilerini öğrenip/kullanarak kendimi geliştiriyorum. Bunun yanında bu sıralar Android ile uğraşmaktayım. 
+Ben Talha, İstanbul Üniversitesi Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. İnomera'da Yazılım Geliştirici olarak çalışıyorum. İstanbul/Beykoz'da yaşıyorum. Java ve teknolojilerini öğrenip/kullanarak kendimi geliştiriyorum.
 
 Çalışkan ve çalışmayı çok seven bir öğrenciyim, üniversitede yaptığım projeleri GitHub hesabımda düzenli olarak paylaşıyorum. Öğrendiklerimi başkalarına aktarmak bana mutluluk veriyor, bu yüzden bu bloğa öğrendiklerimi yazıp başkalarına yardımcı olmayı hedefliyorum.
 
