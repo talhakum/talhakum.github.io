@@ -3,12 +3,12 @@ layout: post
 title: Kayan Noktalı Sayılar
 subtitle: Floating point numbers
 date: 2017-01-04 14:18:00
-tags: [IEEE 754, Kayan Noktalı Sayılar, Bilgisayarın Temelleri,KTÜ]
+tags: [IEEE 754, Kayan Noktalı Sayılar, Bilgisayarın Temelleri]
 comments: true
 show-share: true
 ---
 
-1.Sınıfta gördüğümüz bir derste geçen ve benim çok ilgimi çeken bir konu da Kayan Noktalı Sayılar’dı. Burada bu konu hakkında Türkçe kaynağın yetersizliğinden dolayı bildiklerimi paylaşacağım. Öncelikle tanımından başlayalım.
+1. Sınıfta gördüğümüz bir derste geçen ve benim çok ilgimi çeken bir konu da Kayan Noktalı Sayılar’dı. Burada bu konu hakkında Türkçe kaynağın yetersizliğinden dolayı bildiklerimi paylaşacağım. Öncelikle tanımından başlayalım.
 
 #### Kayan Noktalı Sayılar nedir ?
 
@@ -29,4 +29,4 @@ Geriye kaldı Mantissa ve Sign biti. Sayımız pozitif olduğundan Sign biti de 
 
 Sonuç olarak sayımız `0 10000100 10010010000000000000000` oldu.
 
->Not: Burada Exponent’i bulmak için `127` eklememizin sebebini merak etmiş olabilirsiniz. Bu standartda  Exponenti bulmak için `2^(w-1)-1` formülü kullanılıyor. 32 bit için w yerine 8 geliyor. Nihayetinde `2^7-1=127` çıkıyor.
+>Not: Burada Exponent’i bulmak için `127` eklememizin sebebini merak etmiş olabilirsiniz. Bu standartta  Exponenti bulmak için `2^(w-1)-1` formülü kullanılıyor. 32 bit için w yerine 8 geliyor. Nihayetinde `2^7-1=127` çıkıyor.
