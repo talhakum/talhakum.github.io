@@ -25,7 +25,7 @@ Noktalı sayıların gösterimi IEEE 754 ile standartlaştırılmıştır. Bu st
 
 Elimizde `50.25` sayısı olsun. Bu sayıyı bildiğimiz yöntemle `110010.01` olarak 2’lik sisteme dönüştürüyoruz. Bu elimizdeki sayıyı bilimsel şekilde yazarsak  `1.1001001 x 2^5` elde ederiz. Şimdi buradaki üst’e yani `5`‘e `127` ekliyoruz. `132` sayısı ( `1000 0100` ) bizim Exponent kısmımız oldu.
 
-Geriye kaldı Mantissa ve Sign biti. Sayımız pozitif olduğundan Sign biti de `0` oluyor. Mantissa’da daha önce dediğimiz gibi noktadan sonraki sayımız. Yani `0110010`. Mantissaa kısmı 23 bit olduğundan geri kalan kısmı `0` ile dolduruyoruz.
+Geriye kaldı Mantissa ve Sign biti. Sayımız pozitif olduğundan Sign biti de `0` oluyor. Mantissa’da daha önce dediğimiz gibi noktadan sonraki sayımız. Yani `1001001`. Mantissaa kısmı 23 bit olduğundan geri kalan kısmı `0` ile dolduruyoruz.
 
 Sonuç olarak sayımız `0 10000100 10010010000000000000000` oldu.
 
