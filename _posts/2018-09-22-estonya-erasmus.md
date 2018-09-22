@@ -7,7 +7,12 @@ tags: [estonya erasmus,erasmus,tallinn üversitesi,tallinn university,tallinn ü
 comments: true
 show-share: true
 bigimg:
-  - /img/helsinki.png: City Games, Tallinn
+  - /img/helsinki.png: Helsinki
+  - /img/citygames.png: City Games, Tallinn
+  - /img/stocholm.JPG: Stockholm
+  - /img/roma.JPG: Roma
+  
+  
 ---
 
 Merhabalar,
