@@ -9,7 +9,7 @@ show-share: true
 bigimg:
   - /img/helsinki.png: Helsinki
   - /img/citygames.png: City Games, Tallinn
-  - /img/stocholm.JPG: Stockholm
+  - /img/stockholm.JPG: Stockholm
   - /img/roma.png: Roma
   
   
