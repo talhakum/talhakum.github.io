@@ -53,8 +53,4 @@ Genel olarak Erasmus sürecinde yaşadıklarımı ve işinize yarayacak bilgiler
 
 Hoşça kalın..
 
-## Birkaç Fotoğraf
-
-<img src="https://raw.githubusercontent.com/talhakum/talhakum.github.io/master/img/roma.jpg"/>
-
 
