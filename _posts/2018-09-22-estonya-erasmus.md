@@ -37,7 +37,7 @@ Erasmus sürecim boyunca çok farklı ve güzel anılar biriktirdim. Bence hangi
 
 Cruise gemileri dışında yine çok ucuz fiyatlara uçak bileti de bulabiliyorsunuz. Örnek olarak Tallinn'den Oslo'ya 30€'ya gidiş bileti almıştık.
 
-## ESN Etkinlinkleri
+## ESN Etkinlikleri
 
 ESN Tallinn, erasmus öğrencileri için her hafta farklı etkinlikler düzenliyor. Bunların arasında turlar, şehir oyunları, film geceleri gibi çeşitli aktiviteler oluyor.
 
