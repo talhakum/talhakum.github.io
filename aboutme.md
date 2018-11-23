@@ -6,9 +6,9 @@ subtitle:
 
 Merhabalar,
 
-Ben Talha, İstanbul Üniversitesi Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. İnomera'da Yazılım Geliştirici olarak yarı zamanlı çalışmaktayım. İstanbul/Beykoz'da yaşıyorum. Java ve teknolojilerini öğrenip/kullanarak kendimi geliştiriyorum.
+Ben Talha, İnomera Arge'de Yazılım Mühendisi olarak çalışıyorum.
 
-Çalışkan ve çalışmayı çok seven bir öğrenciyim, üniversitede yaptığım projeleri GitHub hesabımda düzenli olarak paylaşıyorum. Öğrendiklerimi başkalarına aktarmak bana mutluluk veriyor, bu yüzden bu bloğa öğrendiklerimi yazıp başkalarına yardımcı olmayı hedefliyorum.
+Öğrendiklerimi başkalarına aktarmak bana mutluluk veriyor, bu yüzden bu bloğa öğrendiklerimi yazıp başkalarına yardımcı olmayı hedefliyorum.
 
 Ayrıca Türk Kızılayı Avrasya Şubesinde gönüllüyüm.
 
