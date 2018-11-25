@@ -3,7 +3,7 @@ layout: post
 title: İnomera Java Yazılım Akademisi
 subtitle: İnomera'da staj
 date: 2017-08-27 09:35:00
-tags: [İnomera java yazılım akademisi,inomera staj,inomera yazılım akademisi,inomera]
+tags: [İnomera java yazılım akademisi,inomera staj,inomera yazılım akademisi,inomera,inomera arge]
 comments: true
 show-share: true
 ---
