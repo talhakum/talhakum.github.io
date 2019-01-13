@@ -48,6 +48,8 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .main-content {
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
     padding-top: 130px;
   }
 }
@@ -562,6 +564,16 @@ footer .theme-by {
   display: block;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+}
+
+#header-gh-btns {
+  margin-bottom: 15px;
+}
+@media only screen and (max-width: 500px) {
+  #header-gh-btns > iframe {
+    display: block;
+    margin-bottom: 5px;
+  }
 }
 
 /* --- Pager --- */
