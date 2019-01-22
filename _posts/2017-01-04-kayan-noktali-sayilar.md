@@ -8,7 +8,7 @@ comments: true
 show-share: true
 ---
 
-1. Sınıfta gördüğümüz bir derste geçen ve benim çok ilgimi çeken bir konu da Kayan Noktalı Sayılar’dı. Burada bu konu hakkında Türkçe kaynağın yetersizliğinden dolayı bildiklerimi paylaşacağım. Öncelikle tanımından başlayalım.
+1\. Sınıfta gördüğümüz bir derste geçen ve benim çok ilgimi çeken bir konu da Kayan Noktalı Sayılar’dı. Burada bu konu hakkında Türkçe kaynağın yetersizliğinden dolayı bildiklerimi paylaşacağım. Öncelikle tanımından başlayalım.
 
 #### Kayan Noktalı Sayılar nedir ?
 
