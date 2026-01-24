@@ -6,11 +6,11 @@ const json = {
     "completedHtmlOnCondition": [
       {
         "expression": "{correctAnswers} == 0",
-        "html": "<h4>Maalesef, hiçbir cevabınız doğru değil. Lütfen tekrar deneyin.<br><video width='300' autoplay controls><source src="{{ 'assets/img/basarisiz.mp4' | relative_url }}" type='video/mp4'>Tarayıcınız videoyu desteklemiyor.</video></h4>"
+        "html": `<h4>Maalesef, hiçbir cevabınız doğru değil. Lütfen tekrar deneyin.<br><video width='300' autoplay controls><source src="/assets/img/basarisiz.mp4" type='video/mp4'>Tarayıcınız videoyu desteklemiyor.</video></h4>`
       },
       {
         "expression": "{correctAnswers} == {questionCount}",
-        "html": "<h4>Tebrikler! Bütün soruları doğru cevapladınız!<br><img src="{{ 'assets/img/bilge.png' | relative_url }}" style='max-width:300px;'></h4>"
+        "html": `<h4>Tebrikler! Bütün soruları doğru cevapladınız!<br><img src="/assets/img/bilge.png" style='max-width:300px;'></h4>`
       }
     ],
     "pages": [
@@ -199,19 +199,19 @@ const json = {
             "choices": [
                 {
                     "value": "a",
-                    "imageLink": baseUrl + "/assets/images/survey/do-diyez-minor.svg"
+                    "imageLink": "/assets/img/do-diyez-minor.svg"
                   },
                   {
                     "value": "b",
-                    "imageLink": baseUrl + "/assets/images/survey/re-diyez-minor.svg"
+                    "imageLink": "/assets/img/re-diyez-minor.svg"
                   },
                   {
                     "value": "c",
-                    "imageLink": baseUrl + "/assets/images/survey/sol-diyez-minor.svg"
+                    "imageLink": "/assets/img/sol-diyez-minor.svg"
                   },
                   {
                     "value": "d",
-                    "imageLink": baseUrl + "/assets/images/survey/la-diyez-minor.svg"
+                    "imageLink": "/assets/img/la-diyez-minor.svg"
                   }
               ],
             "choicesOrder": "random",
@@ -225,7 +225,7 @@ const json = {
             {
                 "type": "html",
                 "name": "gamin-adi-nedir-soru",
-                "html": "Görseldeki gamın adı nedir?<br><img src="{{ 'assets/img/la-bemol-major.svg' | relative_url }}" style='max-width:300px;'>",
+                "html": `Görseldeki gamın adı nedir?<br><img src="/assets/img/la-bemol-major.svg" style='max-width:300px;'>`,
               },
               {
                 "type": "radiogroup",
@@ -256,7 +256,6 @@ const json = {
         ]
       },
     ],
-    "cookieName": "geography-quiz",
     "requiredText": "*",
     "requiredErrorText": "Lütfen bu soruyu cevaplayınız.",
     "pageNextText": "Sonraki",
