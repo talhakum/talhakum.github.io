@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Survey/
+permalink: /quiz/
 ---
 
 <script src="https://unpkg.com/survey-core@2.5.7/survey.core.min.js"></script>
