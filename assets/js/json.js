@@ -2,7 +2,7 @@ const baseUrl = "{{ site.baseurl }}";
 
 const json = {
     "title": "Çiğdem Quiz",
-    "completedHtml": "<h4>You got <b>{correctAnswers}</b> out of <b>{questionCount}</b> correct answers.</h4>",
+    "completedHtml": "<h4><b>{questionCount}</b> sorudan <b>{correctAnswers}</b> tanesini doğru cevapladınız.</h4>",
     "completedHtmlOnCondition": [
       {
         "expression": "{correctAnswers} == 0",
