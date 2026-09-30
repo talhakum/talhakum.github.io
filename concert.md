@@ -2,12 +2,9 @@
 layout: page
 title: Göksu Sanat Merkezi Yıl Sonu Konseri
 permalink: /concert/
-cover-img: /assets/img/concert_with_asya.jpg
+cover-img: /img/concert_with_asya.jpg
   
 ---
-
-
-
 
 <link rel="stylesheet" href="{{ '/assets/css/simplyCountdown.default.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/simplyCountdown.dark.css' | relative_url }}">
