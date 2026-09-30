@@ -2,7 +2,7 @@
 layout: page
 title: Göksu Sanat Merkezi Yıl Sonu Konseri
 permalink: /concert/
-cover-img: /img/concert_with_asya.jpg
+bigimg: /assets/img/concert_with_asya.jpg
   
 ---
 
